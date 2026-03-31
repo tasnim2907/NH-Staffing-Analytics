@@ -168,6 +168,8 @@ This Power BI report is the analytics deliverable within a larger **PMP-aligned 
 Full project management documentation is in the [PMP-Aligned Portfolio Overview.pdf
 ](./PMP-Aligned%20Portfolio%20Overview.pdf).
 
+![Gantt Chart](images/3.Gantt%20Chart.png)
+
 ---
 
 ## Notes for Reviewers
