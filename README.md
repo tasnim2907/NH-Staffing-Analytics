@@ -9,7 +9,7 @@ This project applies business intelligence and data analytics techniques to a 1,
 
 The project is structured around **five business problems** and delivered as an 8-page interactive Power BI report. It also forms the analytics deliverable within a broader **PMP-aligned project management portfolio** covering a full 21-day project lifecycle from charter to closure.
 
-![Workflow Flowchart](images/4. Analytics Workflow Flowchart.png)
+![Workflow Flowchart](images/4.Analytics Workflow Flowchart.png)
 
 ---
 
