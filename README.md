@@ -116,7 +116,7 @@ Five analytical questions were defined before any build activity began, each map
 
 ## DAX Measures
 
-All custom measures were created in the Power BI Modeling tab. Full measure definitions are documented in [`dax_measures.md`](dax_measures.md).
+All custom measures were created in the Power BI Modeling tab. Full measure definitions are documented in [`dax_measures.md`](./data/dax_measures.md).
 
 | Measure | Purpose |
 |---|---|
