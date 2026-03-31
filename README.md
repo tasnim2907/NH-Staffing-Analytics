@@ -137,12 +137,13 @@ All custom measures were created in the Power BI Modeling tab. Full measure defi
 ## How to Interact with the Report
 
 ### Option 1: Download and Open in Power BI Desktop
-1. Download the `.pbix` file from this repository.
+1. Download the [Nurse Staffing dashboard.pbix](./reports/Nurse%20Staffing%20dashboard.pbix) file from this repository.
 2. Open it in Power BI Desktop (free from Microsoft).
 3. All slicers, drill-throughs, bookmarks, and tooltips are fully functional.
 
 ### Option 2: View Screenshots
-All 8 pages are captured as static images in the `screenshots/` folder for quick reference without any downloads.
+All 8 pages are captured as static images in the [Nurse Staffing Power BI dashboard.pdf
+](./reports/Nurse%20Staffing%20Power%20BI%20dashboard.pdf) for quick reference without any downloads.
 
 ---
 
@@ -164,7 +165,8 @@ All 8 pages are captured as static images in the `screenshots/` folder for quick
 
 This Power BI report is the analytics deliverable within a larger **PMP-aligned project management portfolio**. The project followed a 21-day structured sprint (1 March to 21 March 2026) and produced eight PMBOK-standard artefacts including a Project Charter, WBS, Risk Register, RACI Matrix, and Lessons Learned document.
 
-Full project management documentation is in the [`project_management.md`](project_management.md).
+Full project management documentation is in the [PMP-Aligned Portfolio Overview.pdf
+](./PMP-Aligned%20Portfolio%20Overview.pdf).
 
 ---
 
